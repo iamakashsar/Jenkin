@@ -1,10 +1,10 @@
 #!/bin/bash
 
-n=1
+a=1
 
 for ((i=10;i<=30;i++))
 do
-        n=$((m*i))
+        a=$((m*i))
 done
 
-echo $n
+echo $a
